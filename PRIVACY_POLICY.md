@@ -97,8 +97,8 @@ We may update this Privacy Policy from time to time. We will notify users of any
 
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
-**Email**: [Your Email Address]
-**GitHub**: https://github.com/[your-username]/focus-fortress
+**Email**: blindrisestudio@gmail.com
+**GitHub**: https://github.com/PCRavine/focus-fortress
 
 ## Consent
 
